@@ -232,4 +232,8 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
  7. CDN 
  8. Monetization
 
+add page 
+https://www.designgurus.io/blind75
+https://www.designgurus.io/path/System-Design-Interview-Playbook
+
 Best of luck :+1:, feel free to send pull requests to add more content to this git!
